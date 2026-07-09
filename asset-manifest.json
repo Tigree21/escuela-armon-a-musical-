@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/escuela-armon-a-musical-/static/css/main.a1a45ac3.css",
-    "main.js": "/escuela-armon-a-musical-/static/js/main.06942e8f.js",
+    "main.js": "/escuela-armon-a-musical-/static/js/main.e26b481f.js",
     "index.html": "/escuela-armon-a-musical-/index.html",
     "main.a1a45ac3.css.map": "/escuela-armon-a-musical-/static/css/main.a1a45ac3.css.map",
-    "main.06942e8f.js.map": "/escuela-armon-a-musical-/static/js/main.06942e8f.js.map"
+    "main.e26b481f.js.map": "/escuela-armon-a-musical-/static/js/main.e26b481f.js.map"
   },
   "entrypoints": [
     "static/css/main.a1a45ac3.css",
-    "static/js/main.06942e8f.js"
+    "static/js/main.e26b481f.js"
   ]
 }
